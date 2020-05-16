@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4) 
+
 # Bootstrap Your Next Big Idea with Bootstrap 4
 
 This repo contains the Bootstrap 4 solution code for the *Bootstrap Your Next Big Idea* lesson
